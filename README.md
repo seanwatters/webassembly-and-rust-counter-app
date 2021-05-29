@@ -1,5 +1,5 @@
 # State Management With WebAssembly & Rust
-Link to post [here](https://seanwatters.medium.com/state-management-with-webassembly-rust-66d80432959f).
+Blog post on post [Medium](https://seanwatters.medium.com/state-management-with-webassembly-rust-66d80432959f) and [Dev.to](https://dev.to/seanwatters/state-management-with-webassembly-rust-5a1g).
 
 ## Starting Up
 After cloning:
